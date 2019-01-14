@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857a710d-3512-4982-bc8f-eed6dd72c014" name="Default Changelist" comment="Some changes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="220">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -291,7 +291,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547231888494</updated>
       <workItem from="1547231891641" duration="23268000" />
-      <workItem from="1547401488813" duration="17497000" />
+      <workItem from="1547401488813" duration="17662000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes">
       <created>1547320675339</created>
@@ -314,17 +314,24 @@
       <option name="project" value="LOCAL" />
       <updated>1547484083351</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Some changes">
+      <created>1547484602634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547484602634</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40765000" />
+    <option name="totallyTimeSpent" value="40930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="290" y="0" width="2064" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7589686" visible="true" weight="0.19061877" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7589686" visible="true" weight="0.19061877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" sideWeight="0.2410314" side_tool="true" visible="true" weight="0.19061877" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -338,7 +345,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499501" visible="true" weight="0.30039215" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.499501" visible="true" weight="0.30039215" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500998" side_tool="true" weight="0.19215687" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32941177" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32941177" />
@@ -613,8 +620,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="220">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
