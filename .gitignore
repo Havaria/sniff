@@ -7,8 +7,8 @@ package.json
 package-lock.json
 gulpfile.js
 /core/cache/
-/core//!components/
 /core/
+!/core/components/
 /connectors/
 /manager/
 .gitify
