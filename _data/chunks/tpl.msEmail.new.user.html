@@ -1,0 +1,24 @@
+id: 11
+source: 1
+name: tpl.msEmail.new.user
+description: ''
+category: miniShop2
+properties: null
+static_file: core/components/minishop2/elements/chunks/chunk.ms_email_new_user.tpl
+
+-----
+
+{extends 'tpl.msEmail'}
+
+{block 'title'}
+    {'ms2_email_subject_new_user' | lexicon : $order}
+{/block}
+
+{block 'products'}
+    {parent}
+    {if $payment_link?}
+        <p style="margin-left:20px;{$style.p}">
+            {'ms2_payment_link' | lexicon : ['link' => $payment_link]}
+        </p>
+    {/if}
+{/block}

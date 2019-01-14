@@ -1,0 +1,15 @@
+id: 13
+source: 1
+name: tpl.msEmail.paid.user
+description: ''
+category: miniShop2
+properties: null
+static_file: core/components/minishop2/elements/chunks/chunk.ms_email_paid_user.tpl
+
+-----
+
+{extends 'tpl.msEmail'}
+
+{block 'title'}
+    {'ms2_email_subject_paid_user' | lexicon : $order}
+{/block}

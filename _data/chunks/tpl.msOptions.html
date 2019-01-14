@@ -1,0 +1,22 @@
+id: 7
+source: 1
+name: tpl.msOptions
+description: ''
+category: miniShop2
+properties: null
+static_file: core/components/minishop2/elements/chunks/chunk.ms_options.tpl
+
+-----
+
+{foreach $options as $name => $values}
+    <div class="form-group">
+        <label class="col-md-2 control-label" for="option_{$name}">{('ms2_product_' ~ $name) | lexicon}:</label>
+        <div class="col-md-10">
+            <select name="options[{$name}]" class="input-sm form-control" id="option_{$name}">
+                {foreach $values as $value}
+                    <option value="{$value}">{$value}</option>
+                {/foreach}
+            </select>
+        </div>
+    </div>
+{/foreach}

@@ -1,0 +1,16 @@
+assets/images/
+assets/components/
+assets/images/
+node_modules/
+_data/
+_backup/
+_dev/
+package.json
+package-lock.json
+gulpfile.js
+core/cache
+core/
+connectors/
+manager/
+.gitify
+
