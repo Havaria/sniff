@@ -1,5 +1,4 @@
 /assets/images/
-/assets/components/
 /node_modules/
 /_data/
 /_backup/
@@ -7,7 +6,8 @@
 package.json
 package-lock.json
 gulpfile.js
-/core/cache
+/core/cache/
+/core!/components/
 /core/
 /connectors/
 /manager/
