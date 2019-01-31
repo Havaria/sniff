@@ -564,6 +564,7 @@
                 miniShop2.Message.show = function (message, options) {
                     if (message != '') {
                         $.jGrowl(message, options);
+                        console.log(message, options);
                     }
                 }
             }

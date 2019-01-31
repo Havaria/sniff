@@ -3,6 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="857a710d-3512-4982-bc8f-eed6dd72c014" name="Default Changelist" comment="Some changes">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/components/minishop2/js/web/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/minishop2/js/web/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tmp/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/tmp/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tmp/css/fonts.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/tmp/css/fonts.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tmp/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/tmp/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tmp/img/static/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/tmp/img/static/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tmp/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/tmp/js/app.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/components/minishop2/model/minishop2/minishop2.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/minishop2/model/minishop2/minishop2.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/components/pdotools/docs/changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/pdotools/docs/changelog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/components/pdotools/model/pdotools/_fenom.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/pdotools/model/pdotools/_fenom.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/components/pdotools/model/pdotools/_micromodx.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/pdotools/model/pdotools/_micromodx.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/components/pdotools/model/pdotools/pdomenu.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/components/pdotools/model/pdotools/pdomenu.class.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,79 +28,70 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_dev/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/templates/MainPage.tpl.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/chunks/head.tpl.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+            <state relative-caret-position="441">
+              <caret line="287" column="14" selection-start-line="287" selection-start-column="14" selection-end-line="287" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/chunks/footer.tpl.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/tmp/css/fonts.min.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/tmp/css/style.min.css">
+        <entry file="file://$PROJECT_DIR$/_data/templates/Product.card.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret column="882" selection-start-column="882" selection-end-column="882" />
+            <state relative-caret-position="198">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_dev/fonts.scss">
+        <entry file="file://$PROJECT_DIR$/_data/chunks/msOptions.checkbox.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            <state relative-caret-position="308">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msMiniCart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/chunks/nav.tpl.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msCart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_dev/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -97,8 +101,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="MODX File" />
         <option value="MODX Template" />
+        <option value="MODX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -106,6 +111,16 @@
     <findStrings>
       <find>float-r</find>
       <find>data-spin</find>
+      <find>catalog-inner</find>
+      <find>catalog-inne</find>
+      <find>$zindex-sticky</find>
+      <find>$position</find>
+      <find>.back</find>
+      <find>hidden</find>
+      <find>minica</find>
+      <find>growl</find>
+      <find>#ms</find>
+      <find>ms2_</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,34 +131,60 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_data/chunks/head.tpl" />
-        <option value="$PROJECT_DIR$/_dev/app.js" />
         <option value="$PROJECT_DIR$/_data/chunks/navigation.tpl" />
         <option value="$PROJECT_DIR$/_data/chunks/sdgasd.tpl" />
         <option value="$PROJECT_DIR$/_data/templates/MainPage.tpl" />
         <option value="$PROJECT_DIR$/_data/chunks/footer.tpl" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/assets/tmp/css/fonts.css" />
-        <option value="$PROJECT_DIR$/_dev/fonts.scss" />
         <option value="$PROJECT_DIR$/_data/templates/LookBook.tpl" />
         <option value="$PROJECT_DIR$/_data/templates/Catalog.tpl" />
         <option value="$PROJECT_DIR$/_data/chunks/nav.tpl" />
-        <option value="$PROJECT_DIR$/_data/templates/Catalog.tpl.html" />
         <option value="$PROJECT_DIR$/_data/templates/Product.tpl" />
-        <option value="$PROJECT_DIR$/_data/templates/MainPage.tpl.html" />
-        <option value="$PROJECT_DIR$/_data/chunks/nav.tpl.html" />
         <option value="$PROJECT_DIR$/assets/tmp/js/emerge.js" />
-        <option value="$PROJECT_DIR$/_data/chunks/head.tpl.html" />
-        <option value="$PROJECT_DIR$/_data/templates/LookBook.tpl.html" />
-        <option value="$PROJECT_DIR$/_dev/style.scss" />
-        <option value="$PROJECT_DIR$/_data/chunks/footer.tpl.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/style.css" />
+        <option value="$PROJECT_DIR$/_data/chunks/lookbook.item.tpl" />
+        <option value="$PROJECT_DIR$/assets/tmp/css/fonts.css" />
+        <option value="$PROJECT_DIR$/_dev/fonts.scss" />
+        <option value="$PROJECT_DIR$/_data/templates/LookBook.Inner.tpl" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/myJs.js" />
+        <option value="$PROJECT_DIR$/_data/templates/Catalog.inner.tpl" />
+        <option value="$PROJECT_DIR$/_data/chunks/catalog.inner.product.row.tpl" />
+        <option value="$PROJECT_DIR$/_data/chunks/Catalog.product.tpl" />
+        <option value="$PROJECT_DIR$/_data/templates/MainPage.tpl.html" />
+        <option value="$PROJECT_DIR$/_data/templates/LookBook.Inner.tpl.html" />
+        <option value="$PROJECT_DIR$/_data/templates/Catalog.inner.tpl.html" />
+        <option value="$PROJECT_DIR$/_data/templates/Product.card" />
+        <option value="$PROJECT_DIR$/_data/templates/Product.card.tpl" />
+        <option value="$PROJECT_DIR$/_data/chunks/msOptions.checkbox.tpl" />
+        <option value="$PROJECT_DIR$/_data/chunks/tpl.msOptions.html" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/_data/chunks/fancybox.tpl" />
+        <option value="$PROJECT_DIR$/_data/templates/Catalog.full.tpl" />
+        <option value="$PROJECT_DIR$/_data/chunks/catalog.inner.product.row.tpl.html" />
+        <option value="$PROJECT_DIR$/_data/chunks/tpl.msGallery.html" />
+        <option value="$PROJECT_DIR$/_data/chunks/lookbook.item.tpl.html" />
+        <option value="$PROJECT_DIR$/_data/chunks/head.tpl.html" />
+        <option value="$PROJECT_DIR$/_data/templates/Catalog.tpl.html" />
+        <option value="$PROJECT_DIR$/_data/templates/LookBook.tpl.html" />
+        <option value="$PROJECT_DIR$/_data/templates/Content.Page.tpl" />
+        <option value="$PROJECT_DIR$/_dev/shop.js" />
+        <option value="$PROJECT_DIR$/_data/chunks/footer.tpl.html" />
+        <option value="$PROJECT_DIR$/assets/components/minishop2/js/web/default.js" />
+        <option value="$PROJECT_DIR$/_data/chunks/tpl.msCart.html" />
+        <option value="$PROJECT_DIR$/_data/chunks/msOptions.checkbox.tpl.html" />
+        <option value="$PROJECT_DIR$/_dev/app.js" />
+        <option value="$PROJECT_DIR$/_data/templates/Product.card.html" />
+        <option value="$PROJECT_DIR$/_data/chunks/tpl.msMiniCart.html" />
+        <option value="$PROJECT_DIR$/_data/chunks/nav.tpl.html" />
+        <option value="$PROJECT_DIR$/_dev/style.scss" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="435" />
-    <option name="width" value="3096" />
+    <option name="x" value="610" />
+    <option name="width" value="2402" />
     <option name="height" value="2111" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -163,12 +204,27 @@
             <path>
               <item name="sniff" type="b2602c69:ProjectViewProjectNode" />
               <item name="sniff" type="462c0819:PsiDirectoryNode" />
+              <item name="_backup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sniff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sniff" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sniff" type="b2602c69:ProjectViewProjectNode" />
               <item name="sniff" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sniff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="sniff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
@@ -179,6 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -189,8 +246,8 @@
       <recent name="D:\Downloads\OSPanel\domains\sniff\assets\fonts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Downloads\OSPanel\domains\sniff\assets\tmp\js" />
       <recent name="D:\Downloads\OSPanel\domains\sniff\_data\templates" />
+      <recent name="D:\Downloads\OSPanel\domains\sniff\assets\tmp\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -205,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gulp.js.build">
+  <component name="RunManager">
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -226,12 +283,12 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="build" type="js.build_tools.gulp" temporary="true">
+    <configuration name="compressed-js" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
       <tasks>
-        <task>build</task>
+        <task>compressed-js</task>
       </tasks>
       <arguments />
       <envs />
@@ -273,9 +330,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gulp.js.backup" />
-        <item itemvalue="Gulp.js.build" />
-        <item itemvalue="Gulp.js.watch" />
+        <item itemvalue="Gulp.js.compressed-js" />
         <item itemvalue="Gulp.js.extract" />
+        <item itemvalue="Gulp.js.watch" />
         <item itemvalue="Gulp.js.compressed-js:watch" />
       </list>
     </recent_temporary>
@@ -291,7 +348,9 @@
       <option name="presentableId" value="Default" />
       <updated>1547231888494</updated>
       <workItem from="1547231891641" duration="23268000" />
-      <workItem from="1547401488813" duration="17959000" />
+      <workItem from="1547401488813" duration="63516000" />
+      <workItem from="1548172320188" duration="56917000" />
+      <workItem from="1548874382658" duration="12502000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes">
       <created>1547320675339</created>
@@ -328,31 +387,38 @@
       <option name="project" value="LOCAL" />
       <updated>1547484770071</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Some changes">
+      <created>1547485065188</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547485065188</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41227000" />
+    <option name="totallyTimeSpent" value="156203000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="290" y="0" width="2064" height="1407" extended-state="0" />
+    <frame x="407" y="0" width="1601" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7589686" visible="true" weight="0.19061877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7535545" visible="true" weight="0.17391305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Gulp" order="2" sideWeight="0.2410314" side_tool="true" visible="true" weight="0.19061877" />
+      <window_info id="Gulp" order="2" sideWeight="0.24644549" side_tool="true" visible="true" weight="0.17391305" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499002" weight="0.19215687" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499002" weight="0.24941176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499501" visible="true" weight="0.30039215" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499501" visible="true" weight="0.33803922" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500998" side_tool="true" weight="0.19215687" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32941177" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32941177" />
@@ -362,6 +428,31 @@
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7574512" visible="true" weight="0.18988132" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" sideWeight="0.24254882" side_tool="true" visible="true" weight="0.18988132" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499002" visible="true" weight="0.23686275" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499501" weight="0.23529412" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500998" side_tool="true" weight="0.19215687" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -371,266 +462,298 @@
     <option name="LAST_COMMIT_MESSAGE" value="Some changes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.core.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/assets/images/Layer.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitify">
+    <entry file="file://$PROJECT_DIR$/assets/images/PvxfbUC-mRk copy.jpg" />
+    <entry file="file://$PROJECT_DIR$/_data/templates/Catalog.inner.tpl" />
+    <entry file="file://$PROJECT_DIR$/_data/chunks/catalog.inner.product.row.tpl" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/myJs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tmp/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/assets/tmp/js/app.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/snippets/msCart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="4" column="194" lean-forward="true" selection-start-line="4" selection-start-column="194" selection-end-line="4" selection-end-column="194" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/vue/dist/vue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2112">
+        <state relative-caret-position="486">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <marker date="1548350427295" expanded="true" signature="428:561" ph="..." />
+            <marker date="1548350427295" expanded="true" signature="1018:1409" ph="..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msEmail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/sdgasd.tpl" />
-    <entry file="file://$PROJECT_DIR$/_data/chunks/navigation.tpl" />
-    <entry file="file://$PROJECT_DIR$/_data/chunks/head.tpl" />
-    <entry file="file://$PROJECT_DIR$/_data/chunks/footer.tpl" />
-    <entry file="file://$PROJECT_DIR$/_data/templates/MainPage.tpl" />
-    <entry file="file://$PROJECT_DIR$/_dev/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_jumbotron.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tmp/css/bootstrap-grid.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="5" column="2526" selection-start-line="5" selection-start-column="2526" selection-end-line="5" selection-end-column="2526" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-reboot.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_functions.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1252" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2156">
-          <caret column="2063" lean-forward="true" selection-start-column="2063" selection-end-column="2063" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_float.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/nav.tpl" />
-    <entry file="file://$PROJECT_DIR$/_data/templates/Catalog.tpl" />
-    <entry file="file://$PROJECT_DIR$/_data/templates/LookBook.tpl" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-685">
-          <caret line="7556" selection-start-line="7556" selection-end-line="7615" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tmp/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/templates/BaseTemplate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msOrder.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msGallery.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/nav.tpl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/templates/Catalog.tpl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msCart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msProducts.row.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tmp/js/emerge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#polygon#0;n#mask#0;n#defs#0;n#svg#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/templates/Product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/templates/LookBook.tpl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_dev/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        <state relative-caret-position="154">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/templates/MainPage.tpl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="308">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/Catalog.product.tpl" />
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_position.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_breakpoints.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-grid.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="1083" selection-start-line="1083" selection-end-line="1084" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Font-Awesome-Pro-5/fontawesome-pro-5.6.1-web/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107707">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Font-Awesome-Pro-5/fontawesome-pro-5.6.1-web/scss/solid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/templates/LookBook.Inner.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#2;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#2;n#section#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/footer.tpl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tmp/css/fonts.min.css">
+    <entry file="file://$PROJECT_DIR$/_data/templates/Product.card.tpl" />
+    <entry file="file://$PROJECT_DIR$/assets/tmp/js/app.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tmp/css/style.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret column="882" selection-start-column="882" selection-end-column="882" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/msOptions.checkbox.tpl" />
+    <entry file="file://$PROJECT_DIR$/_data/templates/Product.tpl.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_dev/fonts.scss">
+    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msProductOptions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/chunks/head.tpl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        <state relative-caret-position="330">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        <state relative-caret-position="725">
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/connectors/config.core.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/_data/chunks/fancybox.tpl" />
+    <entry file="file://$PROJECT_DIR$/_data/templates/Catalog.inner.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/_data/templates/Catalog.full.tpl" />
+    <entry file="file://$PROJECT_DIR$/_data/snippets/Gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/catalog.inner.product.row.tpl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/lookbook.item.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msGallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/head.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/templates/Catalog.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/templates/LookBook.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <marker date="1548889852729" expanded="true" signature="328:471" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/templates/Content.Page.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_dev/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret column="396" selection-start-column="396" selection-end-column="396" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/components/minishop2/elements/chunks/chunk.ms_minicart.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/Catalog.product.tpl.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/msProduct.content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/footer.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/components/minishop2/js/web/default.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="567" column="21" selection-start-line="567" selection-start-column="21" selection-end-line="567" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msOptions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="92" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/msOptions.checkbox.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msCart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_dev/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/templates/Product.card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/tpl.msMiniCart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/chunks/nav.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_dev/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="287" column="14" selection-start-line="287" selection-start-column="14" selection-end-line="287" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_backup/2019-01-31T045904+0300.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_backup/sniff-v2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

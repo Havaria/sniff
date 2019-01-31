@@ -52,7 +52,7 @@ src: local('SF UI Display Bold'), url('assets/fonts/sf-ui-display-bold-58646a511
 font-family: 'SF UI Display Heavy';
 font-style: normal;
 font-weight: normal;
-src: local('SF UI Display Heavy'), url('sf-ui-display-heavy-586470160b9e5.woff') format('woff');
+src: local('SF UI Display Heavy'), url('assets/fonts/sf-ui-display-heavy-586470160b9e5.woff') format('woff');
 }
 
 
